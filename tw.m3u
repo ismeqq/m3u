@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/4KtjyeR.jpg" tvg-country="TW" tvg-url="" group-title="",NTD TV
+https://live.ntdimg.com/aplive200/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" tvg-country="TW" tvg-url="" group-title="News",SET News
+http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" tvg-country="TW" tvg-url="" group-title="News",TVBS News
+http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://www.news.taichung.gov.tw/media/276006/%E5%A4%A7%E5%AE%B6%E8%AA%AA%E8%8B%B1%E8%AA%9E-logo-180x80.jpg" tvg-country="TW" tvg-url="" group-title="Kids",空中英語教室
+http://220.158.149.28:8180/live/TV00000000000000000077@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/Qo2WhLn.jpg" tvg-country="TW" tvg-url="" group-title="Kids",靖天卡通
+http://61.58.60.230:9319/live/207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/xc7QiyI.png" tvg-country="TW" tvg-url="" group-title="",靖天國際
+http://61.58.60.230:9319/live/205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/1PmloYC.jpg" tvg-country="TW" tvg-url="" group-title="",靖天戲劇
+http://61.58.60.230:9319/live/203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/E3hNfeG.jpg" tvg-country="TW" tvg-url="" group-title="",靖天日本
+http://61.58.60.230:9319/live/243.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/dvt0GTy.png" tvg-country="TW" tvg-url="" group-title="",靖天歡樂
+http://61.58.60.230:9319/live/201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/XNrGXtL.jpg" tvg-country="TW" tvg-url="" group-title="",靖天育樂
+http://61.58.60.230:9319/live/204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/shKvuIm.jpg" tvg-country="TW" tvg-url="" group-title="News",靖天資訊
+http://61.58.60.230:9319/live/202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/z5io5E8.jpg" tvg-country="TW" tvg-url="" group-title="Movies",靖天電影
+http://61.58.60.230:9319/live/244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/KoZMAWS.jpg" tvg-country="TW" tvg-url="" group-title="Kids",靖洋卡通
+http://61.58.60.230:9319/live/206.m3u8
